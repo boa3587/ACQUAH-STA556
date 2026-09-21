@@ -13,3 +13,7 @@ print(f"Semester: {semester}")
 
 print("Python version:")
 print(sys.version)
+
+print(
+    "I am beginning to build reproducible computational workflows."
+)
